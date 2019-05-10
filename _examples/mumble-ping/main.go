@@ -1,4 +1,4 @@
-package main // import "github.com/dchote/gumble/_examples/mumble-ping"
+package main // import "github.com/alexmotz/gumble/_examples/mumble-ping"
 
 import (
 	"flag"
@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dchote/gumble/gumble"
+	"github.com/alexmotz/gumble/gumble"
 )
 
 func main() {

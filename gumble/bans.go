@@ -1,10 +1,10 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/alexmotz/gumble/gumble"
 
 import (
 	"net"
 	"time"
 
-	"github.com/dchote/gumble/gumble/MumbleProto"
+	"github.com/alexmotz/gumble/gumble/MumbleProto"
 	"github.com/golang/protobuf/proto"
 )
 
